@@ -1,0 +1,7 @@
+! Title: Lean filter
+! Version: 1.0.0
+! Last modified: %LAST_MODIFIED%
+! Homepage: https://github.com/szepeviktor/lean-filter
+! Expires: 2 days
+! R edirect: https://raw.githubusercontent.com/szepeviktor/lean-filter/master/leanfilter.txt
+!
