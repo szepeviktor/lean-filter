@@ -1,5 +1,5 @@
 ! *** IP info sites, see: https://github.com/szepeviktor/ip-info ***
 cleantalk.org##div.why__container
-cleantalk.org##div.blacklist-content:nth-of-type(3)
+cleantalk.org##div.blacklist-content:nth-of-type(4)
 projecthoneypot.org###\5f cd_iframe
 abuseipdb.com##DIV.banner
