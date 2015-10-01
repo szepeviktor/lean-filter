@@ -2,7 +2,7 @@
 !--------------------- 0000-header.txt ---------------------!
 ! Title: Lean filter
 ! Version: 1.0.0
-! Last modified: Tue, 29 Sep 2015 23:35:34 +0200
+! Last modified: Fri, 02 Oct 2015 00:47:16 +0200
 ! Homepage: https://github.com/szepeviktor/lean-filter
 ! Expires: 2 days
 ! R edirect: https://raw.githubusercontent.com/szepeviktor/lean-filter/master/leanfilter.txt
@@ -14,8 +14,10 @@
 !------------------- END 0100-exception.txt -------------------!
 !--------------------- 0200-ip_info.txt ---------------------!
 ! *** IP info sites, see: https://github.com/szepeviktor/ip-info ***
-cleantalk.org##div.why__container
-cleantalk.org##div.blacklist-content:nth-of-type(4)
+! "Why CleanTalk?"
+cleantalk.org##div.why
+! YouTube video (contains div.register)
+cleantalk.org##div.why + div.blacklist-content
 projecthoneypot.org###\5f cd_iframe
 abuseipdb.com##DIV.banner
 !------------------- END 0200-ip_info.txt -------------------!
