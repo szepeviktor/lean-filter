@@ -2,7 +2,7 @@
 !--------------------- 0000-header.txt ---------------------!
 ! Title: Lean filter
 ! Version: 1.0.0
-! Last modified: Fri, 09 Oct 2015 22:19:12 +0200
+! Last modified: Mon, 26 Oct 2015 21:50:41 +0100
 ! Homepage: https://github.com/szepeviktor/lean-filter
 ! Expires: 2 days
 ! R edirect: https://raw.githubusercontent.com/szepeviktor/lean-filter/master/leanfilter.txt
@@ -12,6 +12,7 @@
 ! *** Exceptions ***
 @@||szepe.net^$document
 @@||startssl.com^$document
+@@||paypal.com^$document
 !------------------- END 0100-exception.txt -------------------!
 !--------------------- 0200-ip_info.txt ---------------------!
 ! *** IP info sites, see: https://github.com/szepeviktor/ip-info ***

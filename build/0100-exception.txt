@@ -1,3 +1,4 @@
 ! *** Exceptions ***
 @@||szepe.net^$document
 @@||startssl.com^$document
+@@||paypal.com^$document
