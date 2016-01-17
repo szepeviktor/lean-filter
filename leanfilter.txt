@@ -2,7 +2,7 @@
 !--------------------- 0000-header.txt ---------------------!
 ! Title: Lean filter
 ! Version: 1.0.0
-! Last modified: Tue, 15 Dec 2015 10:32:58 +0100
+! Last modified: Sun, 17 Jan 2016 22:10:39 +0000
 ! Homepage: https://github.com/szepeviktor/lean-filter
 ! Expires: 2 days
 ! R edirect: https://raw.githubusercontent.com/szepeviktor/lean-filter/master/leanfilter.txt
@@ -26,4 +26,5 @@ abuseipdb.com##DIV.banner
 !--------------------- 0300-HU.txt ---------------------!
 ! *** Hungarian advertisments ***
 citromail.hu###hir
+||hudb.pl^
 !------------------- END 0300-HU.txt -------------------!
