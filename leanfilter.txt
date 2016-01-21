@@ -2,7 +2,7 @@
 !--------------------- 0000-header.txt ---------------------!
 ! Title: Lean filter
 ! Version: 1.0.0
-! Last modified: Sun, 17 Jan 2016 22:10:39 +0000
+! Last modified: Thu, 21 Jan 2016 22:21:19 +0000
 ! Homepage: https://github.com/szepeviktor/lean-filter
 ! Expires: 2 days
 ! R edirect: https://raw.githubusercontent.com/szepeviktor/lean-filter/master/leanfilter.txt
@@ -28,3 +28,7 @@ abuseipdb.com##DIV.banner
 citromail.hu###hir
 ||hudb.pl^
 !------------------- END 0300-HU.txt -------------------!
+!--------------------- 0400-usability.txt ---------------------!
+! *** General usability ***
+www.wetransfer.com###panel
+!------------------- END 0400-usability.txt -------------------!
