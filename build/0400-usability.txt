@@ -1,2 +1,4 @@
 ! *** General usability ***
 www.wetransfer.com###panel
+!www.youtube.com###masthead-positioner
+!www.youtube.com###masthead-positioner-height-offset

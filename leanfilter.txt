@@ -2,7 +2,7 @@
 !--------------------- 0000-header.txt ---------------------!
 ! Title: Lean filter
 ! Version: 1.0.0
-! Last modified: Thu, 21 Jan 2016 22:21:19 +0000
+! Last modified: Wed, 27 Jul 2016 00:44:16 +0000
 ! Homepage: https://github.com/szepeviktor/lean-filter
 ! Expires: 2 days
 ! R edirect: https://raw.githubusercontent.com/szepeviktor/lean-filter/master/leanfilter.txt
@@ -31,4 +31,6 @@ citromail.hu###hir
 !--------------------- 0400-usability.txt ---------------------!
 ! *** General usability ***
 www.wetransfer.com###panel
+!www.youtube.com###masthead-positioner
+!www.youtube.com###masthead-positioner-height-offset
 !------------------- END 0400-usability.txt -------------------!
