@@ -2,3 +2,5 @@
 www.wetransfer.com###panel
 !www.youtube.com###masthead-positioner
 !www.youtube.com###masthead-positioner-height-offset
+!www.facebook.com###pagelet_growth_expanding_cta
+!www.facebook.com###dialog_0
